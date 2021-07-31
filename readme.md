@@ -1,3 +1,11 @@
+# Model:
+
+![](figs/SCmodel.png)
+
+# Compare:
+
+![](figs/RQ1.png)
+
 # Note:
 
 1. All baseline-generated annotations of RQ1 species are placed in the result folder, where 'True.csv' is the reference annotation.
