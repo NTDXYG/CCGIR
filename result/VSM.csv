@@ -1,0 +1,1159 @@
+finalize a succcesful crowdsale .
+true if the transaction can buy tokens .
+keep track of whitelisted participants contributions .
+mints the tokens for the facilitate party .
+withdraw unsold tokens .
+"allow user to sell maximum possible amount of tokens , depend on ether amount on contract ."
+convinience function to help present how much time a player have .
+transfer the specified amount to the target address erc-20 standard .
+return remain tokens .
+required for erc-721 compliance .
+public function player submit bet only if game be active bet be valid .
+fail-safe token transfer .
+"internal function , help in create team sale ."
+external view .
+implicitly call spend - if both signatures have sign we then spend .
+transfer tokens from one address to another .
+use to launch the module with the help of factory .
+send approve tokens to seven address .
+"give an array of ids , return whether or not this composition be valid and unique when compositions be allow do not assume the layer array be flatten ."
+this function will finalize the sale .
+retrieve the checksum assign assign to particular resource .
+transfer ethereum from contract .
+for push pre-ico record .
+the address of the controller be the only address that can call a function with this modifier .
+burns _amount tokens from _tokenholder .
+destroy tokens from owners account .
+"public function , can only be call from the outside ."
+called by a security token to notify the registry it be use a module .
+checks that caller 's address be the lender .
+"internal function of attack , assume all parameter check be do ."
+"( uint8 currententitystate , uint8 entitystaterequired ) ."
+the rate use when change tokens .
+allows the current owner to transfer control of the contract to a new owner .
+override to extend the way in which ether be convert to tokens .
+function that be call when transaction target be a contract .
+check if game lock can be remove .
+true if investors can buy at the moment remove view to be overriden .
+burns a specific amount of tokens .
+returns the gamecard associate with the asset / collectible / token .
+function to issue tokens for investors who pay in ether .
+add amount owe ( usually from broker to user ) .
+escape hatch in case the sale need to be urgently stop .
+function to distribute tokens to the list of address by the provided amount .
+gets the balance of the specified address .
+transfers token ownership to this contract owner .
+updates the canclaimbonustokens property with the new _canclaimtokens value .
+calculate ( _basen / _based ) ( _expn / _expd ) .
+get number of first buyers .
+check if the channel be not present .
+change the bonus tier after a purchase .
+transfers token for a specified address .
+"transfer method , with byuout ."
+return if a pixel have already be purchase .
+set a referrer .
+returns the approved address of a give token .
+the address of the deposit address .
+add one more benificiary to the list .
+return rate of token against ether .
+buy card with ether .
+set the global reputation reward share allot to the author and manufacturers .
+set the dragon crowdsalecore contract .
+send tokens to other multi address in one function .
+"totalsupply return the total number of potatoes own by all people , take into consideration those that already rot away ."
+set hard cap .
+the dev ( owner ) will call this method to extract the tokens .
+standard erc20 transferfrom function .
+check if the give account be available .
+when new game be create it need to be approve here before it start .
+getter methods for call information .
+transfers vest tokens to the sender 's address .
+sends jackpot fund for additional dividends .
+low level token purchase function .
+only owner can deposit ether into put option contract .
+"called by hirer or contractor to raise a dispute during start , complete or canellation request statuses ."
+owner can transfer out any accidentally send erc20 tokens .
+get chf / eth pair a an integer .
+returns the sender address extract from the balance proof .
+creation of build properties .
+withdraw approval of mint _amount tokens that be assign to _owner .
+modifies convention data by set a new value for a give index field .
+stage management over .
+true if the transaction can buy tokens .
+determines how eth be store / forward on purchase .
+compute the tix bonus accord to the investment period .
+deposit and withdraw .
+distribute eth base on fee to gen and pot .
+for production card .
+callin accoutn must already have sufficient tokens to approve ( . . . ) .
+tokens be sell by send them to this contract with approveandcall .
+there 's no limit to the coin supply reward follow the same emmission rate a dogecoins ' .
+returns the current price of an auction .
+modifier to make a function callable base on pause state .
+change rate of public sale .
+admin function only call by owner : .
+set ico time .
+buy function to purchase tokens from ether .
+payout to maker .
+chnage block reward accord to gdp .
+main modifier to limit access to delicate function .
+checks if two coordinate be adjacent : xxx xox xxx .
+reverts if beneficiary be not whitelisted .
+confirm a transaction through just the hash .
+function for closure handle .
+allow address to do early participation .
+calculate and assign the appropriate faith value to the player .
+allows contributors to recover their ether in the case of a failed fund campaign .
+add new participant .
+check token availibility for current phase and max allow token balance .
+whether _proposedaddress be already propose .
+give the crowdsale a new newdeadline .
+the contract can have 0 or more admins some function be accessible on the admin level rather than the owner level the owner be always an admin .
+put order on the blackmarket to sell a certain quantity of coke at a certain price .
+call after the crodsale end need to allow everyone to send their lnc around .
+change main start time by owner .
+withdraws all of your earn .
+function for process purchase in private sale .
+functions with this modifier will only execute if the the function be call by the owners of the contract .
+buy tokens from contract by send ether .
+stores fund that may later be refund .
+get investors deposit .
+transfer the balance from owner 's account to another account .
+transfer the balance _value from owner 's account ( msg . sender ) .
+war token info return base on token id transfer ( 64 at most ) .
+create mintedamount tokens and send it to target .
+impl tokenrecipient interface .
+decrease the amount of tokens that an owner allow to a spender .
+transfer from from account to to account use allowance in from account to the sender .
+modifier to prevent contract from interact with the flip card .
+checks whether new lottery should be create .
+withdraw amount eth to contract .
+"withdraw tokens , send tokens to target default wallet ."
+these function i can use to deposit money into this account .
+allows to add a new owner .
+completes a breed tutorial cutie ( non exist in blockchain ) with auction by bid .
+proposes to transfer control of the contract to a newownercandidate .
+buy tokens for t4t tokens .
+function to put mat request in exchange for ethers .
+initiate oraclize call for random number .
+withdraw when there be no budget plan .
+"allows admin to change minbet , maxbet , and curpaytableid ."
+"this set member 's liability status , either to limited liability , or unlimited liability ."
+"checks if the crowdsale purchase be valid : correct time , value and hard cap not reach ."
+develop token reserve wallet .
+destroy tokens from other account .
+throws an exception if call not by owner or additional owner .
+transfer tokens from other address .
+required methods of erc721 .
+stores the number of tokens reserve for a destination .
+"getorder list the price , amount , and maker of a specific token for a sale ."
+it will be call by fallback function whenever ether be send to it .
+mint coin for a multiple account .
+utility function ( because string comparison do n't exist natively in solidity yet ) .
+updates description information of a registered asset .
+payable 's section .
+unfreeze token transfer .
+"start time of the ico , inclusive ."
+get exchange rate base on time and amount .
+for create poo .
+get investors deposit .
+function to mint tokens .
+authorize an issuer .
+can be call once by super owner .
+end lock state for team member / advisor .
+change interval update .
+bonus creator can withdraw their wei after bonus period end .
+grant another address the right to transfer token via takeownership ( ) and transferfrom ( ) .
+implemented token interface to transfer tokens to this .
+allow execution by the bancornetwork contract only .
+amount of tokens that players of coinrace bet during the game and have n't claim yet .
+owner can change the number available tokens for the ico ( must be below 70 million ) .
+get the frozen balance of account .
+transfer sender 's token to a give address .
+public view functions .
+retrieve the token balance of any single address .
+"assign a name to a cat , once a name be assign it can not be change ."
+request a number . . .
+required for erc-721 compliance .
+sets a contract authorization to burn tokens .
+restrict to guardians only .
+this callable function return the token balance that a contributor can currently claim .
+allocate tokens .
+this allow me to collect the revenue pay into the contract .
+allows the owner to double tokens of female investors .
+update phase end time .
+removes single address from whitelist .
+"get description of specify token , ."
+only be call for maintenance reason .
+main modifier to limit access to delicate function .
+add contract addr to the list of trusted contract .
+an internal method that update a new ship .
+return if the crowd sale be still open .
+function to stop current round .
+query the event to participate in the hash by guess the event id .
+this be a seperate function so user could query it before crowdsale start .
+distribute reserve tokens .
+returns nft id by it index .
+private methods .
+admin moderators .
+transfer token for a specified address .
+computes number of tokens with bonus for the specify ether .
+liquifies tokens to ethereum .
+checks whether fund goal be reach .
+updates _currentprice .
+get the title of the module .
+gets price of order .
+to be use in case the default gas cost be too low .
+low level token purchase function .
+enumerate nfts assign to an owner .
+"if seed sale end and soft cap be not reach , contributer can claim their fund ."
+allows anyone to execute a confirmed transaction .
+schedule oraclize call for payout .
+allows contributors to recover their ether in the case of a failed fund campaign .
+internal function to remove a token id from the list of a give address .
+allow to ( re ) set finalize agent .
+can act only after token activation .
+set the lockingratio of total bonus that be the sum of bonus by time .
+function to set owners address .
+this method must never be call by smart contract code .
+"slices a string accord to specify delimiter , return the sliced part in an array ."
+creates erc20 standard token .
+throws if call by any account other than the owner .
+function for remove tokens from specify account .
+returns the number of tokens for give amount of ether for an address .
+new token emission address set up .
+allow owner to sell his zone .
+use this to set the crowdsale beneficiary address .
+returns users current amount of bet on the match .
+check whether the ico be active at the moment .
+removes an owner .
+view the private sale end date and time .
+validation of an incoming purchase .
+enables token holders to transfer their tokens freely if true .
+returns all the relevant information about a specific place .
+this function be use to bump up the jackpot fund .
+pay out the token balance if the king become the king twice in a row .
+allows owner to manually set polyusd price .
+"internal transfer , only can be call by this contract ."
+internal function that mint an amount of the token and assign it to an account .
+finalize the fundraiser if enddate have pass or if hardcap be reach .
+initialize tokenregistry address .
+converts an unsigned integert to it string representation .
+disapprove user 's kyc .
+transfer token for a specified address .
+set the target sale address .
+grade calculation base on parrot quality .
+required for erc-721 compliance .
+gets the balance of the specified address .
+get the expect win amount after house edge be subtract .
+"actually sign hash of the payment promise , consider ethereum signed message prefix ."
+returns how many token value be present in the history .
+throws if call by any account other than the burner .
+end the round .
+allocate tokens to an early contributor from the early contributor share .
+confirm that you ( the buyer ) receive the item .
+source of tokens .
+revoke vest ; release releasable fund to beneficiary and return remain to master and kill vest contract .
+access modifier for cfo-only functionality .
+this method can be use by the controller to extract mistakenly sent tokens to this contract .
+allow first buyers contract to transfer bspt without fee .
+only owner address can set bankroll address .
+"give a token supply , reserve , crr and a sell amount ( in the main token ) , calculate the return for a give change ( in the reserve token ) ."
+scrap a part for shards .
+"call by the owner to unpause , return to normal state ."
+this method must never be call by smart contract code .
+emergency situation resolve .
+returns sell token balance by user address .
+split the monthly profit of the casino to the users .
+transfer ethers to user account .
+setadowner change the owner of an ad unit .
+whether the incentive distribution be start .
+required for erc-721 compliance .
+interface declaration .
+transfer token for a specified address .
+this function will return the detail for a city .
+we can create linglongcats with different generations .
+transfer tokens from one address to another .
+set an upgrade agent that handle .
+returns the current rate with bonus percentage of the tokens .
+removes return agent from list .
+return rate of token against ether .
+add a single animal of the give type .
+withdraws all of your earn .
+funds withdrawal to cover cost of dice2 . win .
+notice of purchase of tokens by send ether .
+only for demonstrate test version .
+unfreeze the account .
+bulk send tokens ( same amount ) .
+users send ether to this contract will be revert .
+transfer tokens from other address .
+checks if a give address currently have transferapproval for a particular token .
+create an account for a user and emit an event .
+function to stop mint new tokens .
+compute status of job .
+set artcoin token and escrow address .
+get the order 's balance of tokens for account customer .
+calculates the amount that have already be vest .
+function that be call when a user or another contract want to transfer fund .
+internal function to mint a new token .
+function to enable token transfer .
+return ubetcheck information by supply beneficiary adddress .
+approve the passed address to spend the specified amount of tokens on behalf of msg . sender .
+approve the passed address to spend the specified amount of tokens on behalf of msg . sender .
+calls zethrbuyin okn the select tokenbankroll .
+buy a token at presale price .
+check interest due .
+buy tokens .
+check if the contract relationship look good .
+get the ticket you have purchase for the current game .
+"adds two sign integers , throw on overflow ."
+transfer the balance from owner 's account to another account .
+return cardlist array .
+returns the number of elements in the list .
+adds list of address to whitelist .
+this be public rather than external so we can call super . unpause .
+schedule contract activation for give block range .
+both publisher and advertiser have to call this for a bid to be consider verified .
+"when the jester ca n't handle it anymore , he can give his position to someone else ."
+check if contract have enough parsecs to cover hard cap .
+transfer updates .
+update whitelisted address amount allow to raise during the presale .
+allows user to create tokens if token creation be still go and cap be not reach .
+finalizes contract .
+"new_exec_id : a new , unique execution id pair with the created instance of the application ."
+calculates the amount that have already vest but have n't be release yet .
+owner can withdraw parsecs only after contract be finish .
+get balance of plain address .
+gets vote winner .
+immediately mint _amount tokens to the _beneficiary .
+send value token to to from from .
+each window be 23 hours long so that end-of - window rotate around the clock for all timezones .
+internal function to add a token id to the list of a give address .
+for the trustee to revoke an early issue offer .
+self destruct contract .
+transfer a recipients available allocation to _recipient .
+load fund to the crowdsale for all investors .
+token allocations for various account .
+internal part .
+reverts if not in crowdsale time range .
+the owner can take away the ownership of any top level domain own by this contract .
+fn for adjust commission rate .
+end the round .
+exchange tokens of _exchanger .
+"internal transfer , only can be call by this contract ."
+can be call only by admin .
+this method be useful when we need to know last transaction ts .
+utility function ( because string comparison do n't exist natively in solidity yet ) .
+convert all incoming ethereum to key .
+pyfactory payout of winner .
+returns the name of the current round in plain text .
+verifies that an order signature be valid .
+throws if call by any account other than the minter .
+function to configure contract address .
+lock the vault for the three wallets .
+mint the specific amount tokens .
+get current day spend for token .
+set standard daily limit .
+required for erc-721 compliance .
+internal function to convert a hash to an eth sign message .
+complete the favor escrow and pay out the tokens minus the commission fee .
+"total supply of part - - a no part be ever delete , this be simply the total supply of part ever create ."
+enable recovery of locicoin send to this contract .
+for pause contract .
+"function to add new owner in map 'owners ' , can be call only by owner ."
+return true if crowdsale event have end .
+mints token rewards to forecasting contract call by crowdsalecontroller .
+"release one tranche of the teamsupply allocation to goola team , 6 . 25 ."
+allows owner to stop the crowdsale immediately .
+method call by owner of contract to withdraw all tokens after timeout have reach .
+allow _spender to withdraw from your account up to _value .
+only owner of master wallet can add additional wallet .
+add a node to the blacklist .
+register token .
+required for erc-721 compliance .
+cost in wei for that many tokens .
+can be override to add finalization logic .
+per inviare i token .
+buy the tokens .
+get all not approve proposals .
+token allocations have not be set .
+return true if the crowdsale have raise enough money to be a successful .
+"transfers ownership of a subnode sha3 ( node , label ) to a new address ."
+transfer the balance from token owner 's account to to account - owner 's account must have sufficient balance to transfer - 0 value transfer be allow .
+rate how many tokens will be issue for one eth .
+for create person .
+counts the number of factories .
+function to mint tokens .
+whitelist an address .
+create mintedamount tokens and send it to target .
+this be a constructor function which mean the following function name have to match the contract name declare above .
+to display on website .
+an 'escape hatch ' function to allow purchasers to get a refund of their eth before refundstart .
+set the xwin token contract address a a one-time operation .
+be a number request pending for the address .
+allow the creator to set minimum balance a user must have in order to create marketcontracts .
+"end the ico , tokens wo n't show up in anyone 's wallets until this function be call ."
+set new registration and annual fee - - must be rivetz .
+impl tokenrecipient interface .
+gas usage 100000 .
+moves fund in sale contract to boulé multisigwallet .
+"spender of tokens transfer an amount of tokens from the token owner 's balance to another account , with a check that the crowdsale be finalise ."
+service function .
+"a wallet can request to detach it collectible , so , that it can be use in other third-party contract ."
+buy tokens .
+get bonus amount for token purchase .
+transfers sender 's tokens to a give address .
+deletes the amount of tokens refund from that buyer balance .
+throws if call by any account other than the owner .
+clears record of a group from a contributor 's record .
+add 62 . 5 .
+for create color .
+_productexists check to see if a product exist .
+checks if a delegate be active .
+the owner can allocate the specified amount of tokens from the crowdsale allowance to the recipient ( _to ) .
+get the token balance for account tokenowner .
+"unlock investors fund , see unlockinvestor for detail ."
+fetches the share ids connect to the give stock .
+"call by the owner to pause , trigger stop state ."
+looks up the current token price .
+sale period start at startblock until the sale start ( startsale ) .
+logic run whenever a buy order be execute .
+low level token purchase * * * do not override .
+generates _amount tokens that be assign to _owner .
+owner set etherwow contract address .
+transfer token for a specified address .
+sets the url where the oracledata can be retrieve .
+buy the tokens .
+assigns ownership of a specific token to an address .
+"show user 's current marketplace information and configuration , as well a some global configurations ."
+transfer tokens from the caller to a new holder : the used by smart contracts edition .
+"multiplies two number , throw on overflow ."
+"burn the tokens , cant never get back ."
+main modifier to limit access to delicate function .
+burn all remain tokens .
+"manually make an oraclize api call , incase of automation failure ."
+hash of the avatar .
+( re ) set the daily limit .
+transfer the specified amount of tokens to the specify address .
+constructor of the contract .
+delay rat to be at least waittime apart .
+"internal function , help in create team sale ."
+failsafe drain .
+function reservefunds - transfer reserve tokens to wallet for future platform usage .
+"integer division of two number , truncate the quotient ."
+owner set new wallet .
+buy tokens with ether .
+"end current vote with 3 scenarios - toallow , tocancel or refund ."
+source of tokens .
+actual function to burn tokens .
+allow owner to adjust mininvestment and weiperabio in case of extreme jump of ether 's dollar-value .
+pet creation .
+compute the tix bonus accord to the investment period .
+this function add stake of shareholder investor can execute this function during round open .
+grant another address the right to transfer token via takeownership ( ) and transferfrom ( ) .
+"escrows the nft , assign ownership to this contract ."
+validates arguments for removeowner function .
+transfers the ownership of an nft from one address to another address .
+end the round .
+set allowance for other address and notify .
+buy allow a party to partially fill an order .
+get least expensive share of one company .
+returns true if we be still in pre sale period .
+holder-centric getter function .
+finalize crowdfunding .
+retreive the poll data .
+returns the amount of tokens that have be sell .
+transfer allocations msg . sender .
+required for erc-721 compliance .
+we implement tokenfallback in case someone decide to send u tokens or we want to increase ico volume .
+allow execution by the bancornetwork contract only .
+true if the transaction can buy tokens .
+gatekeeper function to check if the amount of ether be send be n't either too small or too large .
+only accept a value of 0 . 001 ether .
+execute all erc20 token / ether transfer associate with an order match ( fee and buyer seller transfer ) .
+withdraws all of the callers earn .
+function to get total tokens issued during ico ( dev + sold ) .
+change crowdsale discount stage .
+redeem require amount of tokens for the real asset .
+end the round .
+setter function for crowdsale parameters .
+function to mint tokens .
+deploy aragon network contract .
+function reserve tokens for founder and bounty program .
+approves tokens for sell .
+withdraw tokens to owner .
+approve the passed address to spend the specified amount of tokens on behalf of msg . sender .
+some percentage of the tokens be already reserve by early employees and investors .
+runtime getters : .
+send the player the corresponding prize .
+param1 string the state string of license .
+function refund contributors if ico be unsuccesful .
+fundtransfer use to transfer collected ether into the beneficary address .
+public function .
+function for send eth with balance check ( do not interrupt the program if balance be not sufficient ) .
+marks a token a an erc777 token .
+checks the amount of locked tokens .
+distribute eth base on fee to gen and pot .
+delete previously add thing public_function .
+executed when a purchase have be validate and be ready to be execute .
+check for change in balance in order to track amount of locked tokens .
+allows another account to spend a give amount of tokens on behalf of the sender 's account .
+release vest tokens to beneficiary .
+everyone have tokens ! . . .
+transfer founders team tokens to multisigwallet - 365 days locked .
+allow pre-approved user to take ownership of a token .
+creates new canvas .
+checks how much of an order can be fill .
+override to extend the way in which ether be convert to tokens .
+emits error event with specify error message .
+in total 2 . 5 .
+allows the hydro api to set minimum hydro balance require for sign up .
+set amo to ether rate for round .
+auto transfer all schedules .
+throws if call by any account other than the owner .
+beneficiary claim tokens hold by time lock .
+approves token mint for specified investor .
+"internal transfer , only can be call by this contract ."
+token distribution for the case of the ico function to run when the transaction have be veified .
+create and sell tokens to the caller .
+accumulate the purchased tokens to the total raise .
+checks proposal index for validity .
+allows the current owner to transfer the signer of the contract to a newsigner .
+a contract attempt to get the coin .
+check whether a user allow direct debit by the master .
+helps to toggle batch support flag .
+batch the adminship of the contract .
+start the trade countdown .
+remove tokens from an account and decrease the token supply can only be call by the contract owner .
+restriected to the crowdsale only .
+"initialize a round of blackjack with an id , the hash of the ( partial ) deck and the hash of the server seed ."
+add to enablemigration function to prevent change of migration target once set .
+return the sell price of 1 individual token .
+computes the price and transfer winnings .
+modifier to check admin status .
+end of erc20 inteface methods .
+revoke vest ; release releasable fund to beneficiary and return remain to master and kill vest contract .
+the price or token value for a ether .
+creates a new token .
+owner and admin can change the admin address .
+the first step when upgrade a converter be to transfer the ownership to the local contract .
+the slam-the - button escape hatch .
+you can not turn off drain without turn off burn first .
+this be a private function which should be call from user-implemented external burn function .
+end the round .
+check number of participants .
+function to issue tokens for investors .
+low level token purchase function .
+withdraw account balance .
+allows to send a bid to the auction .
+refund transaction - return the bet amount of a roll that be not process in a due timeframe .
+"year 1 300 1 , 000 , 000 ."
+check if sender be roundsmanager .
+move champ reward to pending withdrawal to his wallet .
+return a list of versions of an app register by the maker .
+function to mint tokens .
+get amount of items in map .
+"slices a string accord to specify delimiter , return the sliced part in an array ."
+check whether a user allow direct debit by the master .
+allocate reserve tokens base on the running time and state of the contract .
+add an address to the whitelist .
+updates token fee for approve a transfer .
+allow the funders to withdraw their fund if the goal have not be reach .
+allows the current owner to change the crowdsale cap .
+"in case the ambassador quota be not meet , the administrator can manually disable the ambassador phase ."
+send ether to the sale collection wallets .
+put a panda up for auction .
+return true iff the contract be open for public trade .
+gets the outstanding reward of a specified address .
+modifier for function that can only be execute by adminstrator .
+take all oraclize ether to contract owner and stop automatically update .
+use to launch the module with the help of factory .
+burns a specific amount of tokens .
+register organisation a auditor .
+required for erc-721 compliance .
+force to end the game .
+modify the contract .
+using this function a user transfer tokens and participate in operate jackpot .
+reduce buy hqx amount .
+this internal function handle withdrawals during stage two .
+change the minimum and maximum amount that can be burn at once .
+callin accoutn must already have sufficient tokens to approve ( . . . ) .
+"lets the owner withdraw extra tokens , which be not sell during the auction ."
+function to buy ticket .
+register organisation a dsp .
+allows the current owner to transfer control of the contract to a newowner .
+ownership of the pay token contract be transfer to this owner .
+"returns the color of the pixels in an area , leave to right and then top to bottom ."
+state transition .
+callable any time treasury . capitalneeded ( ) .
+"new_exec_id : a new , unique execution id pair with the created instance of the application ."
+withdraw nac and eth for non top investor execute by investor .
+function be callable by everyone .
+dev should initially seed the game before start .
+function to withdraw legalcontingencyfunds fund to the owner wallet can only be call from owner wallet .
+"erc20 transferfrom , modify such that an allowance of max_uint represent an unlimited amount ."
+"adds two addends together , return the sum ."
+a contract attempt to get the coin .
+allows execution if the any round start only .
+create a new lotto .
+start accept payments .
+allows someone to send ether and obtain the token .
+start ico and track start time .
+adds single address to whitelist .
+reverses a previous inject command .
+allows the owner to remove an exist minter .
+throws if call by any account other than the owner .
+check if goal be reach .
+this method can be use by the controller to extract mistakenly sent tokens to this contract .
+return if a pixel have already be purchase .
+map a give number to the new range ( old range 1000 ) .
+transfer tokens from the caller to a new holder : the used by smart contracts edition .
+"set rate , i . e ."
+check if a proposal code match .
+attempts to trigger the action .
+investors can claim refund .
+2-phase ownership transfer ; prevent transfer ownership to non-existent address by accident .
+allows the current owner to transfer control of the contract to a newowner .
+unlock tokens lock under time lock with give id and transfer them to correspond beneficiary .
+transfer ownership of token .
+throws if call by any account other than the owner or the admin .
+returns the sum of all the value .
+set complete butt .
+send award to last winner of the list .
+use and override this function with caution .
+remove the blacklist member .
+conversion to tmex function .
+prepare compression data and fire event for buy or reload tx 's .
+public querying api .
+this be the core logic for any buy / reload that happen while a round be live .
+"distribute eth base on fee to com , aff , and p3d ."
+make an exchangement .
+function to access total supply of tokens .
+show the name of the identity in string ( for etherscan read-only function ) .
+get with the id .
+admin function in event of an issue .
+function to stop mint new tokens .
+unblock account .
+a contract attempt to get the coin .
+set allowance for other address .
+get the king 's current point .
+set the maximum investment in wei .
+method to place the oraclize query .
+get point from a single match .
+transfer token for a specified address .
+iswhitelistmanager modifier .
+overload placeholder - could apply further logic .
+burning all tokens on mintaddress .
+receive name / player info from name contract .
+send all pending fund of caller 's address .
+adds account to blacklist .
+"pay winner , update contract balance to calculate new max bet , and send reward ."
+"return current jackpot info jackpotbalance , jackpotlastqualified , jackpotlastwinner , jackpotlastpayout , jackpotcount , gameindex , gamestarttime , timetillroundend , roundstarttime ."
+the bet object .
+"function for user to bet on team idx , where 0 wizards and 1 cavaliers ."
+create new forwarder .
+set an upgrade agent that handle .
+reclaim all erc20basic compatible tokens .
+sets a new coo .
+check if presale be active .
+get possible output for specify player at now .
+"called by the owner , to end the current phase and mark a burnable ."
+returns the index address for this exec id .
+"only manufacturers can call , otherwise throw ."
+throws if call by any account other than the owner .
+"pre-ico and offline investors , collaborators and team tokens ."
+admin function in event of an issue .
+buys tokens in the crowdsale and reward the give address .
+withdraws all tokens from a list of wallets and send all the fund to the forward address .
+returns all the relevant information about a specific emoji .
+whether the needed account have activate the sale .
+private function .
+only callable by the whitelister .
+decrease the amount of tokens that an owner allow to a spender .
+send _value amount of tokens from address _from to address _to .
+gets balance of address .
+return all the fund to the buyers .
+the emergency escape hatch in case something have go wrong .
+refund the investors in case target of crowdsale not achieve .
+required for erc-721 compliance .
+required for erc-721 compliance .
+transfer 'weiamount ' wei to 'beneficiary ' .
+orderaddresses 0 makeraddress orderaddresses 1 makertoken orderaddresses 2 takeraddress orderaddresses 3 takertoken ordervalues 0 makeramount ordervalues 1 takeramount ordervalues 2 expiration ordervalues 3 nonce .
+sets a new claim fee in wei .
+the owner withdraw ether from the contract .
+exchange specific function .
+tokens burn .
+property owners can change their hovertext for when a user mouse over their properties .
+function that be call when a user or another contract want to transfer fund .
+"pay winner , update contract balance to calculate new max bet , and send reward ."
+the current ( or next ) campaign 's jackpot .
+withdraw fund from contract .
+transfers vest tokens to beneficiary .
+withdraws the money to be spend to blind croupier project need .
+this function be call after the ico have end to send the unsold tokens to the specify address .
+buy function allow to buy ether .
+additional api for contract to use as well .
+helper method that allow owner to allocate tokens to an address .
+"ex1 : trade 0 . 5 eth - eos 0 , 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee , 500000000000000000 , 0xd3c64bba75859eb808ace6f2a6048ecdb2d70817 , 21003850000000000000 ."
+change founder address ( where ico eth be be forward ) .
+mints _amount tokens that be assign to _owner .
+getter methods for call information .
+mint coin for a multiple account .
+low level token purchase function .
+send ether to the fund collection wallet override to create custom fund forward mechanisms .
+sends the eth to eth fund wallet and finalize the token sale .
+public function to create a promotion team and assign it to some address .
+sets the state of buy and sell operations .
+add fee ( private ) .
+transfer token for a specified address .
+send coin .
+allows anyone to execute a confirmed transaction .
+only owner can kill me .
+invariant : acc_premium + acc_riskfund + acc_payout + acc_balance + acc_reward + acc_oraclizecosts 0 .
+bool debug .
+allows the admin to finalize the sale and complete allocations .
+function to create a request a payer .
+sets the ico start and end time .
+set account that can mint new tokens .
+get the tag relate to the module factory .
+transfers tokens hold by timelock to beneficiary .
+add pre-sale purchase tokens only owner .
+process stakes sale .
+tokenprice - token price for the period .
+assigns a new address to act a the ceo .
+unpauses the smart contract .
+creates a new emoji with the give name .
+get investment by two key ( address and charger ) .
+scale down all order base on historical fill or cancellation stats but key the order 's original exchange rate .
+buy an unclaimed plot .
+returns the name of the current round in plain text .
+"transferfrom implement erc20 , but be forbidden ."
+end the round .
+transfer tokens from one address to another .
+set art idtreport .
+migration can be cancel if tokens have not yet be send to the new contract .
+"after a day , admin finalize the delegation ."
+allow users to buy tokens for newbuyprice eth and sell tokens for newsellprice eth .
+this function will return all of the detail of the video games .
+updates whitelistadmin address .
+add bounty for hunter .
+"true if tokens be create successfully , false otherwise ."
+amount of token allocate .
+first redemption request id .
+get current applicationentity contract address .
+initializes contract with initial supply tokens to the creator of the contract .
+sets the name ( ) record for the reverse ens record associate with the call account .
+allows token owners to redeem tokens to this contract for it value promise .
+send _value tokens to _to from your account .
+safely transfer the ownership of a give token id to another address .
+returns the current cap .
+register an audit request .
+"release all the bet back to the better if , for any reason , payouts can not be complete ."
+set when presale start .
+transfer the balance from token owner 's account to to account - owner 's account must have sufficient balance to transfer - 0 value transfer be allow .
+trading limit - require the token sale to have close .
+assigns ownership of a specific token to an address .
+set rate of token per 1 eth .
+bonus stage three state .
+an internal method that create a new cutie and store it .
+withdraw all fund to contract owner .
+internal function to assign tokens to the contributor .
+wrapper to call setcolors 4 time in one call .
+set art evtreport .
+list assets in a particular state start from an asset item .
+sets start date for ico phase .
+"status of tgr be initially define by the start block of the tgr , if it 's zero then tgr be not live ."
+execute the update process via the proxymaster for a new address _mastercopy .
+owner withdraw eth reserve from comissions .
+standard function transfer similar to erc20 transfer with no _data .
+public function .
+change payment address - - must be rivetz .
+compute the umbrellacoin bonus accord to the investment period .
+this use call . value ( ) ( ) .
+transfer tokens from the caller to a new holder : the used by smart contracts edition .
+settle an investment make in eth and distribute tokens .
+releases unapproved tokens to _holding address .
+compute the darftoken bonus accord to the buyment period .
+a contract attempt to get the coin .
+determine the current sale tier .
+add to whitelist .
+calculates commission that have be charge for sell the canvas .
+"backup withdraw , if somehow eth get in here ."
+"edits the content of the percentage array , with the specified parameters ."
+true if crowdsale event have end .
+allows to change the number of required confirmations .
+team withdrawal after specified time .
+burns a specific amount of tokens .
+split the challenge function into multiple part because of stack too deep error .
+burn tokens hold by owner .
+the late n - the price will increase every nth press .
+allow to transfer token to another address .
+puts item on champ .
+transfer token for a specified address .
+low level token purchase function .
+"allow _spender to withdraw from your account , multiple time , up to the _value amount ."
+this function be prototyped in recoverable contract .
+transfer tokens from one address to another .
+removes an approver address .
+change min eth income during window1-5 .
+update winner bid .
+allows the owner to authorise an address to approve and request the transfer of eth and .
+for pay out balance on contract .
+adapted from tostring ( slice ) by arachnid ( nick johnson email protect ) .
+transfer the specified amount of tokens to the specify address .
+check whether the ico be active at the moment .
+"vault finalization task , call when owner call finalize ( ) ."
+erc20 methods .
+ico status overview .
+this allow the owner to withdraw surplus eth .
+calculate how many key would exist with give an amount of eth .
+"allow an option 's buyer to exercise the option , trade amounttraded of assettraded to the option for amountlocked of assetlocked ."
+initial oracle call trigger by eusd contract .
+increase the channel deposit with _added_deposit .
+sets a new start date as long a token sale have n't start yet .
+function that be call when transaction target be an address .
+transfers vest tokens to beneficiary .
+"add tokens to specify address , tokens amount depend of wei amount ."
+"internal transfer , only can be call by this contract ."
+transfer timelocked tokens .
+set the addition / removal of admin address .
+whether the needed account have activate the sale .
+success if the rat be process successfully .
+bonus creator can withdraw their wei after bonus period end .
+freeze ? prevent allow target from send receive token precondition .
+compute the tix bonus accord to the investment period .
+"returns the index address of an application use a give exec id , or 0x0 if the instance do not exist ."
+approve of mint _amount tokens that be assign to _owner .
+allows the pendingowner address to finalize the transfer .
+function to check the ether balance of a contributor .
+owner only function disable contract before activation .
+allows the owner make a reward .
+participate to a presale .
+get total lottery amount .
+change the feeaccount address .
+low level token purchase function .
+sender start the challenge period ; this can only happen once .
+transfer tokens from one address to another .
+sets address of seller robot .
+transfer the balance from owner 's account to another account .
+_isvalidskin : whether an account can mix use these skin .
+this be an especial admin-only function to make massive tokens assignments .
+function that return the estimate token round by send amount .
+enable freeze for contract .
+initialize a new sale .
+owner can mint tokens during crowdsale withing define cap .
+public function in case of a failed refund or win send .
+helper method that allow owner to allocate tokens to an address .
+deliver tokens to purchasers accord to their purchase amount in cny .
+calculate fund wrt sale cap .
+converts all of caller 's dividends to tokens .
+have a pregnant monster give birth ! .
+create and sell tokens to the caller .
+sets approve amount of tokens for spender .
+change tokens .
+"creates a new user-generated meme with the give metadata and text , with give _price and assign it to an address ."
+transfer tokens from one address to another .
+transfer token for a specified address .
+remove the blacklist member .
+cancel active game without play .
+set up founder address token balance .
+for check approval of transfer for address _to .
+a contract attempt to get the coin .
+allows someone to send ether and obtain the token .
+distribute tokens .
+get the upgrade manager address .
+time lock id .
+allows the current owner to transfer control of the contract to a newowner .
+modifier which give specific right to serviceagent .
+the price or token value for a ether .
+override this method to have a way to add business logic to your crowdsale when buy .
+required for erc-721 compliance .
+_holderaddress token holder account address .
+owner can transfer out any accidentally send erc20 tokens .
+refund tokens after crowdsale .
+gen limit handle .
+transfer amount of asset currency from from to to .
+"starts ico , make ico contract owner , so it can mint ."
+if the address be not valid and the institution name if the address be valid .
+this function be call by the owner to modify the contribution cap of a whitelisted address .
+send _value amount of tokens from address _from to address _to .
+finalize settings .
+allows the current owner to transfer control of the contract to a newadmin .
+"closes the sale , issue the team tokens and burn the unsold ."
+release all available for release freeze tokens .
+allocate tokens to a market supporter from the market campaign share .
+allows the owner to run any emergency update on the time line .
+safety to withdraw all tokens back to seller in the event any get strand .
+get the totalsupply .
+set allowance for other address .
+send limit tokens to company .
+owner can propose an address change for owner .
+modifier that allow only shareholders to vote and create new proposals .
+function to check if an address be whitelisted .
+the accepted ether amount .
+return a list of versions of an app register by the maker .
+calculate the amount of non vest tokens at a specific time .
+generates _amount tokens that be assign to _owner .
+send to multiple address use a byte32 array which include the address and the amount .
+true if crowdsale event have end or cap reach .
+erc721impl erc998 authentication .
+one way function to perform the final token release .
+check if the trade with provided parameters will pass or not .
+transfer tokens from one address to another .
+retrieve the token balance of any single address .
+check if an address be associate with any user account .
+append an early purchase log .
+return all country data .
+transfer tokens .
+creates a new person with the give name .
+register a new erc20 token .
+transfer contract 's ownership .
+owner only function disable contract before activation .
+check claim entitlement of any wallet .
+check only oraclize address be call .
+"allows _spender to spend no more than _value tokens in your behalf , and then ping the contract about it ."
+from icoengineinterface .
+function to mint tokens .
+sells the amount of fxx to refill the senders eth balance for another transaction .
+set allowance for other address .
+move eth to team eth time-locked contract .
+function to withdraw tokens that have previously be exclude when call the redeemexcluded method .
+return all country data .
+"adds two number , throw on overflow ."
+uint : amount of the give order that have already be fill in term of amountget / tokenget .
+callable only by zlots .
+function to add members to the contract .
+2-step verification that the right winner be announce ( minimize the probability of error ) .
+transfer tokens from one address to another .
+halt transactions in case of emergency .
+"create and deploy the target contract ( extension of target contract ) , and set the msg . sender ."
+end the round .
+number of tokens .
+returns the address currently assign ownership of a give token .
+destroy tokens from other account .
+the msg . sender .
+get the portion of bet amount that be to be accumulate in the jackpot .
+add hash to persistent storage .
+transfer the balance from owner 's account to another account .
+changes buyback parameters .
+authorize a third party _operator to manage ( send ) msg . sender 's .
+allow user to lock tokens to enable trade for a give market contract .
+using this function a spender transfer tokens and make an owner of fund a participant of the operate jackpot .
+will return n buy tokens to the contract - user supply of tokens must have enough balance .
+low level token purchase * * * do not override .
+"allows _spender to spend no more than _value tokens in your behalf , and then ping the contract about it ."
+calculate amount of dividends claimable .
+give to target address ability for self token manipulation without send .
+get bonus percentage and threshold of a give bonus tier .
+function to set the new price can only be call from owner wallet .
+change the owner of the contract .
+"to be call when ico be close , burn the remain tokens but the d-wallet freeze vault ( 1000000000 ) and the ones reserve for the bounty program ( 24000000 ) ."
+adds a list of address to the whitelist .
+reverts if swap must be enforce and _to be not the swap address .
+"internal transfer , only can be call by this contract ."
+return winner list size .
+add a metadata of an object .
+only for demonstrate test version .
+withdraw dth when a shop add by admin be delete .
+withdraws all eth deposit by the sender .
+token name change function .
+the address of the deposit address .
+update a person 's dod .
+allows someone to send ether and obtain the token .
+allows the caller to purchase tokens for a specific beneficiary ( proxy purchase ) .
+get the expect win amount after house edge be subtract .
+if accidentally other token be donate to project dev .
+function to mint tokens .
+returns the owner of the give record .
+function to add an address to the managers .
+release token and make it transferable .
+check the state of the contract .
+investors total of distinct investors .
+transfer ownership of this ssp record .
+check to see if a sender own a _tokenid .
+eth owner create swap with secrethash .
+"internal transfer , only can be call by this contract ."
+return the requester of the escrow contract .
+accumulate the purchased tokens to the total raise .
+create mintedamount tokens and send it to owner .
+transfer the specified amount of tokens to the specify address .
+allow pre-approved user to take ownership of a token .
+returns true if we be still in sale period .
+grant tokens to a specified address .
+limit token transfer until the crowdsale be over .
+modifier to make a function callable only when the contract be pause .
+"set the cooldownendtime for the give pony , base on it current cooldownindex ."
+require champ to be sale .
+"internal transfer , only can be call by this contract ."
+prefix a bytes32 value with x19ethereum signed message : .
+true if crowdsale event have end .
+burns a specific amount of tokens .
+required for erc-721 compliance .
+id belong to the list .
+a contract attempt to get the coin .
+payout any wager associate with the send address .
+"internal transfer , only can be call by this contract ."
+note that address recover from signatures must be strictly increase .
+send _amount of tokens on behalf of the address from to the address to .
+deliver purchase tokens to give investor .
+"returns the color of the pixels in an area , leave to right and then top to bottom ."
+sorts give array in place .
+true if the contract implement the requested interface .
+transfer tokens from one address to another .
+function to unlock tokens .
+private function .
+"complete pending approval , can only be call by msg . sender ."
+required for erc-721 compliance .
+transfers tokens hold by timelock to beneficiary .
+modifier that require the trade to be live or allow to bypass the freeze status .
+this function will return only the price of a specific hero .
+function to stop mint new tokens .
+constructor of the contract .
+get interest count .
+reissue your tokens .
+check if a contract exist .
+this function be use by the owner to authorize many address in a single call .
+throws if _tokenid exist .
+this function be override by the test mocks .
+transfer token for a specified address with pause feature for owner .
+transfer _value tokens from address _from to address _to use allowance msg . sender .
+cancel the escrow a a seller .
+refound tokens .
+create an account instantly .
+buy tokens at this contract 's divrate .
+transfer token for a specified address .
+assigns ownership of a specific token to an address .
+set oscar address .
+use storage keyword so that we write this to persistent storage .
+returns the total of the pool ( minus the house part ) .
+send value token to to from from .
+deletes a listinghash from the whitelist and transfer tokens back to owner .
+function of operation .
+"preico 1 eth 4 , 000 tokens - - limit 0 , 10 eth 1 stage 1 eth 3 , 000 tokens - - limit 0 , 10 eth 2 stage 1 eth 2 , 500 tokens - - limit 0 , 10 eth 3 stage 1 eth 2 , 000 tokens - - limit 0 , 10 eth 4 stage 1 eth 1 , 750 tokens - - limit 0 , 10 eth 5 stage 1 eth 1 , 500 tokens - - limit 0 , 10 eth ."
+"contract may be destroy only when there be no ongoing bet , either settle or refund ."
+transfer balance to owner withdraw owner .
+assigns ownership of a specific card to an address .
+send _amount tokens to _to from _from on the condition it be approve by _from .
+issue a new amount of tokens these tokens be deposit into the owner address .
+destroy tokens from other account .
+this be a private function and be only be call from trade ( ) .
+transfers amount from msg . sender .
+property owners can toggle their properties between private mode and free-use mode .
+"pure , accept randomness nonce and return hash a int ( which should be compare to target ) ."
+public sale of msx to regain eth .
+the manager can deposit manually from previous version 's balance .
+"escrows the nft , assign ownership to this contract ."
+send to multiple address use two array which include the address and the amount .
+starts a poll for a listinghash which be either in the apply stage or already in the whitelist .
+"note : only allow 1 active sale per address per sig , unless owner ."
+create an string accord to the array .
+"return current jackpot info jackpotbalance , jackpotlastqualified , jackpotlastwinner , jackpotlastpayout , jackpotcount , gameindex , gamestarttime , timetillroundend , roundstarttime ."
+remove an account from the frozen account list .
+dev returns the product of a and b .
+modifier to allow action only when the crowdsale have end .
+gets the address for a provided namespace in the service locator .
+transfer the balance from owner 's account to another account .
+allows the owner to set the starting time .
+accept participant 's kyc .
+public function .
+access modifier for doge functionality .
+adapted from tostring ( slice ) by arachnid ( nick johnson email protect ) .
+assigns initial days to owners during mint period .
+public sale of msx to regain eth .
+send tip for user .
+return a array fill with eth total for every window a convinience function to be call for update a gui .
+owner can add new restrict address or remove one .
+addition with safety check .
+set contract owner .
+withdraw nac and eth for non top investor execute by investor .
+update an account for vote or airdrop or both .
+deposit token into the contract .
+calculates the amount that have already vest but have n't be release yet .
+transfer from from account to to account use allowance in from account to the sender .
+whether propose own all of the card .
+logic run whenever a buy order be execute .
+transfer token for a specified address .
+the owner can call this function to withdraw the fund that have be send to this contract for the crowdsale subject to the fund goal have be reach .
+change the address of the veredictum contract address .
+creates a dividend with a provided checkpoint .
+"used to remove the balance , when ask for refund ."
+low level token purchase function .
+call by anyone to get the drop amount .
+check the specified wallet whether it be in the whitelist .
+overrides parent behavior by transfer tokens from wallet .
+assigns ownership of a specific person to an address .
+checking that we do not exceed the investment cap .
+description update .
+standard erc677 function that will handle incoming token transfer .
+approve the passed address to spend the specified amount of tokens on behalf of msg . sender .
+makes erc-20 token sellable .
+another founder can approve specify tx and send it to destaddr .
+change current price of carnita .
+callin accoutn must already have sufficient tokens to approve ( . . . ) .
+low level token purchase * * * do not override .
+constructor of the contract .
+transfer tokens from the caller to a new holder : the used by smart contracts edition .
+creates a rarecoin token .
+checks if caller be either the currently register minter or jobsmanager .
+creates erc20 standard token .
+marks an address a be approve for transferfrom ( ) .
+return the miner halve ( start halve or last claim ) .
+returns true if the canvas have be already finish .
+sell function that take tokens and convert them into ether .
+set the token that be to be use for this lottery .
+logic run whenever a reload order be execute .
+throws if call by any other entity except gatewayinterface .
+allow user to withdraw his balance .
+set oscar address .
+getter methods for call information .
+low level token purchase function .
+functon to retrieve a proof that have be complete .
+modifier to make a function callable only when the contract redemption be pause .
+mint vest tokens .
+public payable function to buy tokens during sale or emission .
+modifier - emission on .
+"get name for specified namespace and msg . sender , ."
+function add here to reduce gas cost .
+fetches the share ids connect to the give stock .
+allows the owner to propose the mint of tokens .
+removes an exist verification and return the deposited amount to transactee .
+public function emergency manual refund .
+allows anyone to execute a confirmed transaction or ether withdraws until daily limit be reach .
+modifier that require the operational boolean variable to be true .
+low level token purchase * * * do not override .
+function to allow the dao to register a new order .
+base function for request creation .
+name of this token .
+upgrade token function .
+should be call by joysocrowdsale when crowdsale be finish .
+burn tokens which be not sell on previous stage .
+transfer tokens from one address to another .
+add graphics card for owner of contract .
+get the token balance for account tokenowner .
+delivery token for buyer .
+the the game status .
+"use this to reset everything , will never be call after lockrelease ."
+cancels an auction unconditionally .
+make trasferfrom ( ) pausable .
+stop burn new tokens .
+withdraw dth when a shop add by admin be delete .
+start accept payments .
+guards from invocation only when state be active .
+approves and then call the receive contract .
+this method must never be call by smart contract code .
+this method must never be call by smart contract code .
+lock a card and make it unusable .
+adds presale account address to privatesalewhitelist .
+"given an amount in ggc , this method return the equivalent amount in mini-ggc ."
+claim a day for your very own ! .
+get the time-based bonus rate .
+number of decimals for this token .
+"call by the owner to pause , trigger stop state ."
+a contract attempt to get the coin .
+get various information about the match and it current state .
+total number of tokens in existence .
+approve the passed address to spend the specified amount of tokens on behalf of msg . sender .
+testing function to corroborate extra data from oraclize call .
+for transfer tokens .
+"must be call after presale end , to do some extra finalization ( forward / refund ) work ."
+performs payout base on win team .
