@@ -45,5 +45,15 @@ CCGIR不适用于以下情况的语料库：
 
 CCGIR方法简单，不用额外训练，效果还行，非常适合作为baseline进行对比实验，觉得有帮助欢迎引用。
 
-等under review。。。
+```
+@article{yang2022ccgir,
+  title={CCGIR: Information retrieval-based code comment generation method for smart contracts},
+  author={Yang, Guang and Liu, Ke and Chen, Xiang and Zhou, Yanlin and Yu, Chi and Lin, Hao},
+  journal={Knowledge-Based Systems},
+  volume={237},
+  pages={107858},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 
